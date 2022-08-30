@@ -1,0 +1,185 @@
+
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}.dmMobileBody .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}.dmDesktopBody .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}#dm [data-show-on-page-only]{display:none!important}
+
+img[width][height] {height: auto;}
+
+    body[data-page-alias="aulas-ao-vivo"] #dm [data-show-on-page-only="aulas-ao-vivo"]{
+        display: block !important;
+    }
+
+
+
+
+    
+    .widget-1f5975 .copyright {
+    font-size: 13px;
+    display: flex;
+    text-align: left;
+    justify-content: flex-start;
+}
+    
+
+
+    
+
+
+
+
+    *#dm *.dmBody *.u_undefined{
+display:none !important}
+*#dm *.dmBody *.u_1292770278:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1292770278.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1292770278>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody nav.u_1459502687{
+color:black !important}
+*#dm *.dmBody div.u_1292770278{
+background-color:rgba(23,23,23,1) !important;
+background-repeat:no-repeat !important;
+background-image:url(/Resources/images/IMG_1686-640w.jpeg) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1292770278:before{
+background-color:rgba(8,22,43,1) !important;
+opacity:0.87 !important}
+*#dm *.dmBody div.u_1292770278.before{
+background-color:rgba(8,22,43,1) !important;
+opacity:0.87 !important}
+*#dm *.dmBody div.u_1292770278>.bgExtraLayerOverlay{
+background-color:rgba(8,22,43,1) !important;
+opacity:0.87 !important}
+
+
+    *#dm *.dmBody div.u_1292770278
+{
+	margin-left:0 !important;
+	padding-top:100px !important;
+	padding-left:0 !important;
+	padding-bottom:50px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+	width:auto !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1515907872
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:calc(100% - 140px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:60.9961px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1493740729
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:calc(100% - 13px) !important;
+	position:relative !important;
+	height:315px !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:314.961px !important;
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1926217759
+{
+	display:block !important;
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:342.5px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1610013428
+{
+	display:block !important;
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:342.5px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1163333488
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:307.988px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0px !important;
+	min-width:0 !important;
+	display:block !important;
+}
+
+
+
+        .font-size-60, .size-60, .size-60 > font { font-size: 60px !important; }.font-size-28, .size-28, .size-28 > font { font-size: 28px !important; }.font-size-60, .size-60, .size-60 > font { font-size: 60px !important; }.font-size-28, .size-28, .size-28 > font { font-size: 28px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-35, .size-35, .size-35 > font { font-size: 35px !important; }.font-size-25, .size-25, .size-25 > font { font-size: 25px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.dmMobileBody .m-font-size-28, .dmMobileBody .m-size-28, .dmMobileBody .m-size-28 > font { font-size: 28px !important; }.dmMobileBody .m-font-size-28, .dmMobileBody .m-size-28, .dmMobileBody .m-size-28 > font { font-size: 28px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-25, .dmMobileBody .m-size-25, .dmMobileBody .m-size-25 > font { font-size: 25px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-17, .dmMobileBody .m-size-17, .dmMobileBody .m-size-17 > font { font-size: 17px !important; }.dmMobileBody .m-font-size-24, .dmMobileBody .m-size-24, .dmMobileBody .m-size-24 > font { font-size: 24px !important; }.dmMobileBody .m-font-size-24, .dmMobileBody .m-size-24, .dmMobileBody .m-size-24 > font { font-size: 24px !important; }
+    
+
+    
+
+  .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+    visibility: hidden;
+  }
+  .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+    visibility: hidden !important;
+  }
